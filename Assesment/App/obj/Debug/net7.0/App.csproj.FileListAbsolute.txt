@@ -1,0 +1,15 @@
+/home/parth/work/assessment/Assesment/App/bin/Debug/net7.0/App
+/home/parth/work/assessment/Assesment/App/bin/Debug/net7.0/App.deps.json
+/home/parth/work/assessment/Assesment/App/bin/Debug/net7.0/App.runtimeconfig.json
+/home/parth/work/assessment/Assesment/App/bin/Debug/net7.0/App.dll
+/home/parth/work/assessment/Assesment/App/bin/Debug/net7.0/App.pdb
+/home/parth/work/assessment/Assesment/App/obj/Debug/net7.0/App.csproj.AssemblyReference.cache
+/home/parth/work/assessment/Assesment/App/obj/Debug/net7.0/App.GeneratedMSBuildEditorConfig.editorconfig
+/home/parth/work/assessment/Assesment/App/obj/Debug/net7.0/App.AssemblyInfoInputs.cache
+/home/parth/work/assessment/Assesment/App/obj/Debug/net7.0/App.AssemblyInfo.cs
+/home/parth/work/assessment/Assesment/App/obj/Debug/net7.0/App.csproj.CoreCompileInputs.cache
+/home/parth/work/assessment/Assesment/App/obj/Debug/net7.0/App.dll
+/home/parth/work/assessment/Assesment/App/obj/Debug/net7.0/refint/App.dll
+/home/parth/work/assessment/Assesment/App/obj/Debug/net7.0/App.pdb
+/home/parth/work/assessment/Assesment/App/obj/Debug/net7.0/App.genruntimeconfig.cache
+/home/parth/work/assessment/Assesment/App/obj/Debug/net7.0/ref/App.dll

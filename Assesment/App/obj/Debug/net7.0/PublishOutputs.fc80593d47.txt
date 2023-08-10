@@ -1,0 +1,5 @@
+/home/parth/work/assessment/Assesment/App/bin/Debug/net7.0/publish/App
+/home/parth/work/assessment/Assesment/App/bin/Debug/net7.0/publish/App.dll
+/home/parth/work/assessment/Assesment/App/bin/Debug/net7.0/publish/App.deps.json
+/home/parth/work/assessment/Assesment/App/bin/Debug/net7.0/publish/App.runtimeconfig.json
+/home/parth/work/assessment/Assesment/App/bin/Debug/net7.0/publish/App.pdb
